@@ -1,6 +1,6 @@
 <?php
 
-namespace RVTech\CustomEavName\Setup\Patch\Data;
+namespace Learning\CustomEavName\Setup\Patch\Data;
 
 use Magento\Eav\Model\Entity\Attribute\ScopedAttributeInterface;
 use Magento\Eav\Setup\EavSetupFactory;

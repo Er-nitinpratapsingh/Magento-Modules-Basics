@@ -1,6 +1,6 @@
 <?php
 
-namespace RVTech\CustomEavName\Plugin;
+namespace Learning\CustomEavName\Plugin;
 
 use Magento\Catalog\Model\Product;
 

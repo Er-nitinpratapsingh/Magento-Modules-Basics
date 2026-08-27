@@ -3,8 +3,8 @@
         xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
 
     <type name="Magento\Catalog\Model\Product">
-        <plugin name="rvt_custom_product_name"
-                type="RVTech\CustomEavName\Plugin\ProductNamePlugin"/>
+        <plugin name="learning_custom_product_name"
+                type="Learning\CustomEavName\Plugin\ProductNamePlugin"/>
     </type>
 
 </config>
